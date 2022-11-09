@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nifty50-stock-price-prediction",
+  "private_key_id": "39536132386e345e1eaa26f3dfe8e4d1057b8390",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDC6e+qrFCCSHrD\nytyB4fovg8qIWtMFZjILWiijqODtizn9K5hSzLd7AA+/gYIISO/eteiMqqgeopHb\nyRf9Q/2PjcPjTxoKWnAzi5y+ekLuo6eAPaD6Bom4mSO15PZuo4eqIiESfVkQSG58\nNnu33DALMAAcYqXDv2rOLs26BORNr0SHY53Vy3TKOXW1trEASBY7zlGZzcwRW60K\nElSXZSH+l7STO2aKYioCsX6BAFftbOmL0WfOz3dZFav5GUq4ILAkNXqiNIUaANvs\nVltXNZV23jkwv18zIh70Cqy6d3RRa4Ffpi+06ihrl1QXKIp8JFSmc9IMT/tAtZW1\nDVOUCmlxAgMBAAECggEAHADv+fr7hC8KqFJfNQVKZITlq9/fXUa4s5sr/JDZDs1H\n3cEOMlM5nKE+d1ARkRl9kRIHS8fXE15dthChyDWlBU4jvJGoVvV1v7TJe9plVGj3\nOfxgwkX/MneaGFpBh6rUun5gdwoYVOJl2/sYnQAJzQmunRAVQIGiGZEYO1Ipmk7E\nH1Saht3MkwTN/335uLoJicq7laQkzpMefv1sVkmn0UwlRigVZBa33MG3QvVXC6IJ\ngN2LBExeWloHhDxmK/SFvO5wlLExZmkCR4bceIoJYPHIroBDFfGk6BPeSOIpS4jo\niVAXvALq34E3n+TihJ5g+Bsv7MdRTpcxN3uXHJmTWwKBgQD3U15StfbMr8x2l2Mn\nJ+8oT4W8XghSkNbhpWEJHaIY0I8T5W/ZSLgfGI+WJA4s8P538E+mls0bpjLFsas4\nS9xn4h9K5lQSCFP5Va/JaegImohQNt0a6hyotWbYKVeFB+ys91rcY/caPRc5xfHX\nXJZtgfsmZA6cppSqkROBNUUnxwKBgQDJv/vxz8+0meax+jLJ97YHQOP4vvLO0mXs\nw5Fxp+HkQ5TV4xsoXYP/oKrtR4cmfLU2CT8VVHb/BrOrBiq4WirsiQsMSlls9Tv/\ntxZCaJjOFM5BYnE72MS2bhuSNQaptQBUdmo/C2b9Pa69n/ygxD2or9tSfovoh9E8\nKUmP9AUVBwKBgQDhOOoMJ+g3PV/UHsgMQDFpZAFFJ9wsU/laQl+7DWEvd7zTQXw5\nQh9pMdSPxQWjp1ITpqLh8TGWnCJgJQrmmS58603TxyuHwE24IG+T2v2R2CeJ5Gw0\ntjyi5Y5iCkPIwQ6l9Bqp196N5lPgKIGyvH2/+z3aGAO2Y3u+V56LaxcuwQKBgQCj\ncfvE7ZzSLZSuP4qCAULhIXsPfHLth5q3c8ETGPVyniWoGjNYQlq78AhJ7xbY4VNV\nkawftawp893/AiH99F6t/mCK9nj4Qrz27/cCmgahfk2SvxQJbhX/zbhcfMUHG/JG\neyCcLrqjEyPL0B80h4eEb+P5MzhZjB7A5JoKG6E6ZQKBgB4o4H67UP8CdM8ysXyT\nIBtpA4C7RHgsSGoM8ruuIrlOZwMG+4Mc/qY9rftij+xI2QpOa9YYBIJitog6mBbX\nMP8FmfQMPTzf9H6krlXkzVrZdnFPJY+AI+UMzM7IrOX6m0inqRXeCmX3uUni9pge\noXYL5Il7mfc+m3Gp6V8CUcXg\n-----END PRIVATE KEY-----\n",
+  "client_email": "hammad@nifty50-stock-price-prediction.iam.gserviceaccount.com",
+  "client_id": "107422078170897705354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hammad%40nifty50-stock-price-prediction.iam.gserviceaccount.com"
+}
